@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="profileContainer"
+>
+  <div
+    className="loadingContainer"
+  >
+    <img
+      alt="loading"
+      src="loading.gif"
+      srcset=""
+    />
+  </div>
+</div>
+`;
